@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main() {
+    int x, y;
+    scanf("%d %d", &x, &y);
+    int("A = 5000 - 100 * (x + y)")
+    printf("%d\n", A);
+    return 0;
+}

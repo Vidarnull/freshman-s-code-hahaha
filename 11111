@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+int main() {
+    int A, B;
+    
+    // 读取两个整数
+    scanf("%d %d", &A, &B);
+    
+    // 输出问候语
+    printf("Hello, %d and %d!\n", A, B);
+    
+    return 0;
+}
